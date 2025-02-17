@@ -1,3 +1,7 @@
+BarbsDSP Modifications
+======================
+  - Created new branch called BarbsDSP-wireplumber, made default
+
 WirePlumber
 ===========
 
