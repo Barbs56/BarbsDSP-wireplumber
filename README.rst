@@ -1,5 +1,5 @@
 BarbsDSP Modifications
-----------------------
+
   - Created new branch called BarbsDSP-wireplumber, made default
   - Editted wireplumber.conf to reduce unnecessary module loading
   - Added profile.conf to wireplumber.conf.d to load a modified version of the main-embedded profile
