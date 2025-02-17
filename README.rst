@@ -5,7 +5,7 @@ BarbsDSP Modifications
   - Added profile.conf to wireplumber.conf.d to load a modified version of the main-embedded profile
   - Added bluetooth.conf to wireplumber.conf.d to designate system exclusively as A2DP sink, set codecs to load (AAC, SBC, aptx, aptx HD), enabled SBC-XQ, enabled AAC VBR with highest quality, and routed all streams to PEQ
 
-WirePlumber [Begin orginial developer's unmodified README]
+WirePlumber [Begin orginal developer's unmodified README]
 ==========================================================
 
 .. image:: https://gitlab.freedesktop.org/pipewire/wireplumber/badges/master/pipeline.svg
