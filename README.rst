@@ -1,6 +1,9 @@
 BarbsDSP Modifications
 ======================
-  - Created new branch called BarbsDSP-wireplumber, made default
+  o Created new branch called BarbsDSP-wireplumber, made default
+  o Editted wireplumber.conf to reduce unecessary module loading
+  o Added profile.conf to wireplumber.conf.d to load main-embedded profile (modified slightly from default)
+  o Added bluetooth.conf to wireplumber.conf.d to designate system exclusively as A2DP sink, set codecs to load (AAC, SBC, aptx, aptx HD), enabled SBC-XQ, enabled AAC VBR with highest quality, and routed all streams to PEQ
 
 WirePlumber [Begin orginial developer's unmodified README]
 ==========================================================
