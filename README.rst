@@ -2,8 +2,8 @@ BarbsDSP Modifications
 ======================
   - Created new branch called BarbsDSP-wireplumber, made default
 
-WirePlumber
-===========
+WirePlumber [Begin orginial developer's unmodified README]
+==========================================================
 
 .. image:: https://gitlab.freedesktop.org/pipewire/wireplumber/badges/master/pipeline.svg
    :alt: Pipeline status
